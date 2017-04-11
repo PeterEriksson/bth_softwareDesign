@@ -5,11 +5,7 @@
 Use story: playerLogin  
 As a player, I want the ability to access my own account so I can access my own previous progress.  
 So that I won't have to start over again everytime I play.
-```
-```
-playerLogout:  
-As a player, I want the option to log out,  
-so that my play session is not altered when I'm not present. 
+
 ```
 ```
 saveGame:  
